@@ -1,6 +1,5 @@
 
 title: [jjwsNetwork]
 description: [Changelog for jjwsNetwork website.]
-
 theme: jekyll-theme-cayman
-show_downloads: false
+show_downloads: [false]
