@@ -3,7 +3,4 @@ title: [jjwsNetwork]
 description: [Changelog for jjwsNetwork website.]
 
 theme: jekyll-theme-cayman
-github:
-  is_project_page: false
-show_downloads: [false]
 show_downloads: false
