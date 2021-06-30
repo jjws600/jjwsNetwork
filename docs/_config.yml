@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: [jjwsNetwork]
 description: [Changelog for jjwsNetwork website.]
 show_downloads: [false]
+github:
+  is_project_page: false
