@@ -1,6 +1,9 @@
-Latest Changes
+Changelog
 ====
-# v1.0.0-b: 
+ [Website Changelog](https://jjws600.github.io/jjwsNetwork)
+ [Server Changelog](https://jjws600.github.io/jjwsNetwork/servers)
+# Website Changes:
+## v1.0.0-b: 
 **[1/07/2021]**
 
 ### **Added**:
