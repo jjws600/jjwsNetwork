@@ -10,7 +10,7 @@ Changelog
 **[2/07/2021]**
 
 #### **Added**:
-* Footer link now resolves to unfinished <jjws.tk>
+* Footer link now resolves to unfinished [jjws.tk](https://jjws.tk)
 * Version number in footer is now a link to this page.
 
 #### **Fixed**:
