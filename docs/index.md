@@ -6,6 +6,7 @@ Latest Changes
 ### **Added**:
 * Discord Widget.
 * --BETA: Github Changelog Page--
+
 ### **Fixed**:
 * Responsiveness and general bug fixed.
 * Caption and image banner were misplaced when on small screen, changed back to old system of 0px top margin, and placed caption appropriately.
