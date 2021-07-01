@@ -5,8 +5,9 @@ Changelog
 * [Website Changelog](https://jjws600.github.io/jjwsNetwork)
 * [Server Changelog](https://jjws600.github.io/jjwsNetwork/servers)  
 
+## Server Changes:
+
 **Nothing is here yet**
-## Website Changes:
 
 ### 0/00/2021: 
 
