@@ -6,6 +6,20 @@ Changelog
 * [Server Changelog](https://jjws600.github.io/jjwsNetwork/servers)
 
 ## Website Changes:
+### v1.0.2-b:
+**[6/07/2021]**
+
+#### **Added**:
+* Javascript console logging for;
+  * Version Number
+  * Copyright Information
+#### **Fixed**:
+* Site manifest has been renamed to manifest, and enabled to use credentials if necessary. [Such as on development server].
+* Scrollbar was able to be utilized on 1080p displays, to move slightly, adjusted padding on discord widget to fit on 1080p screen.
+
+#### **Improved**:
+* Title element has been more appropriately placed in document structure.
+
 ### v1.0.1-b:
 **[2/07/2021]**
 
