@@ -48,3 +48,17 @@ Changelog
 
 #### **Improved**:
 * Updated to new Server Banner.
+
+* Updated to new Server Banner.
+
+### In between v1.0.0-b and v1.0.5-b, changes were not noted.
+
+
+# v1.0.5-b
+**[6/09/2021]**
+
+### **Added**:
+* Donate button that links to paypal.me/jjws600
+
+### **Fixed**:
+* Margin bottom was too high on 1080p, displayed scroll bar with no extra content, this was moved to a media query for small devices to have a good experience at the bottom of the content
