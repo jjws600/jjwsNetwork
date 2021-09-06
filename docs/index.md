@@ -7,7 +7,7 @@ Changelog
 
 ## Website Changes:
 
-# v1.0.5-b
+### v1.0.5-b
 **[6/09/2021]**
 
 ### **Added**:
