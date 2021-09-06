@@ -10,10 +10,10 @@ Changelog
 ### v1.0.5-b
 **[6/09/2021]**
 
-### **Added**:
+#### **Added**:
 * Donate button that links to paypal.me/jjws600
 
-### **Fixed**:
+#### **Fixed**:
 * Margin bottom was too high on 1080p, displayed scroll bar with no extra content, this was moved to a media query for small devices to have a good experience at the bottom of the content
 
 
