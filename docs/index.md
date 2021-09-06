@@ -1,4 +1,4 @@
-**Our Website**: <https://jjws.tk/jjwsnetwork>  
+**Our Website**: <https://jjws.cf/jjwsnetwork>  
 
 Changelog
 ==
@@ -38,7 +38,7 @@ Changelog
 **[2/07/2021]**
 
 #### **Added**:
-* Footer link now resolves to unfinished [jjws.tk](https://jjws.tk)
+* Footer link now resolves to unfinished [jjws.cf](https://jjws.cf)
 * Version number in footer is now a link to this page.
 
 #### **Fixed**:
