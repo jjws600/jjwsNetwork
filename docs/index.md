@@ -17,7 +17,7 @@ Changelog
 * Margin bottom was too high on 1080p, displayed scroll bar with no extra content, this was moved to a media query for small devices to have a good experience at the bottom of the content
 
 
-### In between v1.0.2-b and v1.0.5-b, changes were not noted.
+## In between v1.0.2-b and v1.0.5-b, changes were not noted.
 
 
 ### v1.0.2-b:
