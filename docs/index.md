@@ -19,7 +19,7 @@ Changelog
 ### v1.0.6-b-dev
 
 #### **Added**:
-init.js instead of inline javascript (probably will be compiled into one file at )
+* init.js instead of inline javascript (probably will be compiled into one file at )
 #### **Fixed**:
 * Version changelog link now opens in new tab
 #### **Removed**: 
