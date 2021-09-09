@@ -7,8 +7,32 @@ Changelog
 
 ## Website Changes:
 
-### v1.0.5-b
-**[6/09/2021]**
+### v1.0.7-b
+*Uploaded to master*
+
+### **Changed**:
+* Instead of transitioning the background image using height, I changed it to a transformY instead via recommendation from a lighthouse link
+### **Fixed**:
+* Firefox not respecting <br> so i am switching to margin-top on the next element (caption -> discord button)
+
+
+### v1.0.6-b-dev
+
+#### **Added**:
+init.js instead of inline javascript (probably will be compiled into one file at )
+#### **Fixed**:
+* Version changelog link now opens in new tab
+#### **Removed**: 
+* Old PHP Footer code in favour of javascript
+* nojs.php inlined
+
+#### **Changed**:
+* Moved from PHP variables to Javascript ones
+* Cleaned up Javascript version code
+* Added target="_blank" & rel="noreferrer" to all links (to open in new tab)
+
+
+### v1.0.5-b-dev
 
 #### **Added**:
 * Donate button that links to paypal.me/jjws600
@@ -21,7 +45,6 @@ Changelog
 
 
 ### v1.0.2-b:
-**[6/07/2021]**
 
 #### **Added**:
 * Javascript console logging for;
@@ -35,7 +58,6 @@ Changelog
 * Title element has been more appropriately placed in document structure.
 
 ### v1.0.1-b:
-**[2/07/2021]**
 
 #### **Added**:
 * Footer link now resolves to unfinished [jjws.cf](https://jjws.cf)
@@ -48,7 +70,6 @@ Changelog
 * Spacing at top of page has been decreased to stop user not being able to see all of discord widget on 1080p Desktop.
 
 ### v1.0.0-b: 
-**[1/07/2021]**
 
 #### **Added**:
 * Discord Widget.
@@ -62,7 +83,3 @@ Changelog
 
 #### **Improved**:
 * Updated to new Server Banner.
-
-
-
-
