@@ -1,5 +1,5 @@
 # jjwsNetwork
 
-[jjwsNetwork Website](https://jjws.tk/jjwsnetwork)
+[jjwsNetwork Website](https://jjws.cf/jjwsnetwork)
 
 [Changelog Page](https://jjws600.github.io/jjwsNetwork)
