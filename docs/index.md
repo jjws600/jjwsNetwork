@@ -10,9 +10,9 @@ Changelog
 ### v1.0.7-b
 *Uploaded to master*
 
-### **Changed**:
+#### **Changed**:
 * Instead of transitioning the background image using height, I changed it to a transformY instead via recommendation from a lighthouse link
-### **Fixed**:
+#### **Fixed**:
 * Firefox not respecting <br> so i am switching to margin-top on the next element (caption -> discord button)
 
 
