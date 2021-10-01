@@ -6,22 +6,66 @@ Changelog
 * [Server Changelog](https://jjws600.github.io/jjwsNetwork/servers)
 
 ## Website Changes:
+### v1.1.1
 
-### v1.0.7-b
-*Uploaded to master*
+#### **Planned changes**:
+  * Make noscript transparent
+  * Fix background image scaling again - make bg-small scale like bg-large does
+
+### __v1.1.0__
+*Deployed*
+
+#### **Added**:
+  * text-size-adjust in addition to the -webkit-text-size-adjust
+  * charset to css (not sure if necessary but cant hurt...)
+  * https://meyerweb.com/eric/tools/css/reset/reset.css
+
+#### **Fixed**:
+  * ID new-line was defined twice, moved to CLASS new-line
+  * 'filter' should be listed after '-webkit-filter'.
+  * footer form css was inline, moved to init.css
+
+### v1.0.9
+
+#### **Fixed**:
+  * bg-small aspect ratio is now back to normal
+
+#### **Removed**:
+  * .js files, back to inline JS now.
 
 #### **Changed**:
-* Instead of transitioning the background image using height, I changed it to a transformY instead via recommendation from a lighthouse link
+  * an external request from a _GET link to a _POST form.
+  * jjwsLink link is now a <button>
+
+### v1.0.8
+*Deployed*
+
+#### **Added**:  
+  * manifest.json for PWA installing, and home screen support.
+  * Service worker registered
+
 #### **Fixed**:
-* Firefox not respecting <br> so i am switching to margin-top on the next element (caption -> discord button)
+  * bg-small aspect ratio not fixed, background is scaling on the x axis, making squashed image
+
+### v1.0.7
+
+#### **Changed**:
+* Moved to v1.0.7 instead of -b as beta is no longer in effect, full site release (coming-soon page) has commenced [ready for production rc1/rc2 cleared, production copy pushed to server]
+* jjwsLink now adds a message to my homepage saying that its not ready yet
+* Instead of transitioning the background image using height, I changed it to a transformY instead via recommendation from a lighthouse link
+
+#### **Fixed**:
+* Firefox not respecting line breaks so i am switching to margin-top on the next element (caption -> discord button)
 
 
 ### v1.0.6-b-dev
 
 #### **Added**:
 * init.js instead of inline javascript (probably will be compiled into one file at )
+
 #### **Fixed**:
 * Version changelog link now opens in new tab
+
 #### **Removed**: 
 * Old PHP Footer code in favour of javascript
 * nojs.php inlined
@@ -50,6 +94,7 @@ Changelog
 * Javascript console logging for;
   * Version Number
   * Copyright Information
+
 #### **Fixed**:
 * Site manifest has been renamed to manifest, and enabled to use credentials if necessary. [Such as on development server].
 * Scrollbar was able to be utilized on 1080p displays, to move slightly, adjusted padding on discord widget to fit on 1080p screen.
