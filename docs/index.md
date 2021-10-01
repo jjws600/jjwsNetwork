@@ -1,11 +1,10 @@
 **Our Website**: <https://jjws.cf/jjwsnetwork>  
 
-Changelog
-==
 * [Website Changelog](https://jjws600.github.io/jjwsNetwork)
 * [Server Changelog](https://jjws600.github.io/jjwsNetwork/servers)
 
-## Website Changes:
+jjwsNetwork website changelog:
+==
 ### v1.1.1
 
 #### **Planned changes**:
