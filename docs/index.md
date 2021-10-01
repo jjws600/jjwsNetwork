@@ -11,7 +11,7 @@ jjwsNetwork website changelog:
   * Make noscript transparent
   * Fix background image scaling again - make bg-small scale like bg-large does
 
-### __v1.1.0__
+### v1.1.0
 *Deployed*
 
 #### **Added**:
