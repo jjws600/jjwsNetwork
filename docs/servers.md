@@ -7,16 +7,4 @@ Changelog
 
 ## Server Changes:
 
-**Nothing is here yet**
-
-### 0/00/2021: 
-
-
-#### **Added**:
-*
-
-#### **Fixed**:
-* 
-
-#### **Improved**:
-* 
+* [Server tasks are being tracked on trello:](https://trello.com/b/UUt1ySkl/jjwsnetwork-tasks)
