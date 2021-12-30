@@ -1,4 +1,4 @@
-**Our Website**: <https://jjws.tk/jjwsnetwork>  
+**Our Website**: <https://jjws.link/jjwsnetwork>  
 
 Changelog
 ==
