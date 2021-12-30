@@ -1,4 +1,4 @@
-**Our Website**: <https://jjws.cf/jjwsnetwork>  
+**Our Website**: <https://jjws.link/jjwsnetwork>  
 
 * [Website Changelog](https://jjws600.github.io/jjwsNetwork)
 * [Server Changelog](https://jjws600.github.io/jjwsNetwork/servers)
