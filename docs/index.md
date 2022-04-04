@@ -5,6 +5,17 @@
 
 jjwsNetwork website changelog:
 ==
+
+### v2.0.0-dev
+
+#### Changes:
+ * Complete rewrite mostly in bootstrap, using PHP includes per page if anyone was curious.
+ * This new site has mostly cosmetic differences but the responsiveness of the design is HIGHLY improved, which is obviously due to bootstrap..
+#### To-Do:
+ * The next few versions will probably be me taking the pieces of bootstrap that i'm using and moving them into a custom css file to remove the massive file size of the bootstrap css.
+
+---
+
 ### v1.1.1
 
 #### **Planned changes**:
