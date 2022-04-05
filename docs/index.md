@@ -6,6 +6,14 @@
 jjwsNetwork website changelog:
 ==
 
+### v2.1.0-dev
+ * Refactor folder layout
+ * Move loading of javascript and css to preferred render locations?
+ * Add a check for the discord widget to avoid unnecessarily reloading the discord iframe when opened (only load once)
+ * Fixed old_site link to point to a real version of it, change the link in prod
+ * Code refactoring for speed and read-ability. (added comments)
+
+
 ### v2.0.0-dev
 
 #### Changes:
